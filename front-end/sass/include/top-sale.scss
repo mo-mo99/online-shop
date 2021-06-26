@@ -1,0 +1,12 @@
+
+#top-sale{
+    a{
+        overflow: hidden;
+    }
+    img{
+        transition: transform .5s ease;
+    }
+    img:hover{
+        transform: scale(1.1)
+    }
+}

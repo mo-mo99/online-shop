@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&family=Raleway:ital@1&family=Rubik:ital@1&display=swap");
+/* templates */
+/* global classes */
+button, button:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.font-baloo {
+    font-family: "Baloo Thambi 2", cursive;
+}
+
+.font-rale {
+    font-family: "Raleway", cursive;
+}
+
+.font-rubik {
+    font-family: "Rubik", cursive;
+}
+
+.font-size-12 {
+    font-size: 12px;
+}
+
+.font-size-14 {
+    font-size: 14px;
+}
+
+.font-size-16 {
+    font-size: 16px;
+}
+
+.font-size-18 {
+    font-size: 18px;
+}
+
+.font-size-20 {
+    font-size: 20px;
+}
+
+/* color templates */
+.color-primary {
+    color: #003859;
+}
+
+.color-primary-bg {
+    background: #003859;
+}
+
+.color-second {
+    color: #00A5C4;
+}
+
+.color-second-bg {
+    background: #00A5C4;
+}
+
+.color-yellow {
+    color: #FFD289;
+}
+
+.color-yellow-bg {
+    background: #FFD289;
+}
+
+#top-sale a {
+    overflow: hidden;
+}
+#top-sale img {
+    transition: transform 0.5s ease;
+}
+#top-sale img:hover {
+    transform: scale(1.1);
+}
+
+/*# sourceMappingURL=style.css.map */
